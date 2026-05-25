@@ -22,7 +22,11 @@ cout << "Ingrese un numero: ";
     // El bucle 'for' inicializa i en 1, evalúa que no pase de 'num' y aumenta de 1 en 1
     for (int i = 1; i <= num; i++) 
     {
-        cout << i << " veces" << endl;
+        //cambiara el mensaje
+        cout  << " El NUMERO SERIA : " <<i<< endl;
+
+
+        
 
 
     return 0;
